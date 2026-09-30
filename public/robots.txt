@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://teslamedical.com/sitemap.xml
+
+# Crawl-delay can be added if needed for heavy servers
+# Crawl-delay: 10
